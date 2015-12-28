@@ -1,0 +1,51 @@
+body, td, th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: x-small;
+	color: #000;
+}
+body {
+	background-color: #FAFAFA;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.boxtitle {
+	text-align:center;
+	color:#FFF;
+	vertical-align:middle;
+	font-weight: bold;
+}
+#RotBanner {
+	position:absolute;
+	width:468px;
+	height:60px;
+	z-index:1;
+	left: 184px;
+	top: 38px;
+	overflow: hidden;
+	visibility: visible;
+	border:none;
+}
+#Stats {
+	position:absolute;
+	width:199px;
+	height:60px;
+	z-index:1;
+	left: 700px;
+	top: 41px;
+	overflow: hidden;
+	visibility: visible;
+	border:none;
+}
+.tabela {
+	background-color: #FFF;
+	border: 1px solid #099;
+	padding:1px;
+}
+.TextoPadrao {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: justify;
+	line-height: 150%;
+}
